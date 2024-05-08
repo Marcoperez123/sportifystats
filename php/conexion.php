@@ -1,5 +1,5 @@
 <?php
-	$servidor = "sportifydb.cfcsw2cesdtx.us-east-2.rds.amazonaws.com";
+	$servidor = "sportifydb1.cfcsw2cesdtx.us-east-2.rds.amazonaws.com";
 	$usuario = "admin";
 	$contraseña = "Lara1234";
 	$base_de_datos = "sportifyBasededatos";
