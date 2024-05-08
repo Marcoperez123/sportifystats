@@ -33,4 +33,3 @@ try {
     echo json_encode(array('success' => false, 'message' => 'Error al ejecutar la consulta: ' . $e->getMessage()));
 }
 ?>
-
